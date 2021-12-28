@@ -1,0 +1,5 @@
+.link-menu {
+  text-transform: uppercase;
+  color: var(--white);
+  font: var(--linkFont);
+}

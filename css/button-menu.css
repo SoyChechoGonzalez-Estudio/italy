@@ -1,0 +1,10 @@
+.button-menu {
+  position: absolute;
+  background: none;
+  color: #ffffff;
+  border: 0;
+  outline: none;
+  /* border: 1px solid red; */
+  right: 24px;
+  font-size: 32px;
+}
